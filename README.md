@@ -1,27 +1,5 @@
 # Projeto: Simulação e Análise de Velocidades de Correntes Marinhas
 
-
-
-
-
-## Arquivo JSON de Saída
-
-O arquivo `dados_correntes.json` terá o seguinte formato:
-```json
-{
-    "velocidades": [1.23, 2.34, 1.78, ...],
-    "media": 1.85,
-    "maxima": 2.90,
-    "minima": 0.75
-}
-```
-
-## Exemplo de Execução
-
-Ao executar o script, você verá a coleta de dados simulada, os resultados das estatísticas exibidos no console e gráficos exibidos em uma janela de visualização.
-
----------------
-
 ### Código em Python para Monitoramento de Correntes Marinhas com Gráficos
 
 Este código simula a coleta e análise de dados de velocidade e temperatura das correntes marinhas, atendendo aos requisitos especificados. Ele inclui variáveis, tipos de dados, estruturas de controle, manipulação de listas e strings, funções, estruturas de dados, manipulação de arquivos e tratamento de exceções. Além disso, gera gráficos para visualização dos dados.
